@@ -1,0 +1,8 @@
+{
+  "name": "Saveur & Aroma | Food & Beverage E-Commerce Store",
+  "description": "متجر إلكتروني فاخر لبيع المشروبات والأطعمة مع خيارات دفع وتسليم متعددة، ودعم لغات متعددة ونماذج أعمال سابقة. Boutique e-commerce gastronomique et boissons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
