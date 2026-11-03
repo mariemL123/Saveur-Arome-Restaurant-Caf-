@@ -39,6 +39,79 @@ You can explore the customer interface and test the main interactive features di
 
 > **Demo notice:** This is a frontend demonstration. Orders, products, and other application data are managed in client-side state and are not backed by a persistent production database. No real payment is processed. Please use fictional information when testing.
 
+## Screenshots
+
+Explore the main customer experience and restaurant administration features through the screenshots below.
+
+### Customer Experience
+
+<table>
+<tr>
+<td width="50%">
+<strong>01 — Homepage</strong><br>
+<img src="docs/screenshots/01-homepage.png" alt="Saveur & Aroma homepage" width="100%">
+</td>
+<td width="50%">
+<strong>02 — Restaurant Menu</strong><br>
+<img src="docs/screenshots/02-menu.png" alt="Restaurant menu" width="100%">
+</td>
+</tr>
+<tr>
+<td width="50%">
+<strong>03 — Add Item to Cart</strong><br>
+<img src="docs/screenshots/03-add-to-cart.png" alt="Adding an item to the cart" width="100%">
+</td>
+<td width="50%">
+<strong>04 — Shopping Cart</strong><br>
+<img src="docs/screenshots/04-cart.png" alt="Shopping cart" width="100%">
+</td>
+</tr>
+<tr>
+<td width="50%">
+<strong>05 — Order Checkout</strong><br>
+<img src="docs/screenshots/05-checkout.png" alt="Order checkout" width="100%">
+</td>
+<td width="50%">
+<strong>06 — Delivery Information</strong><br>
+<img src="docs/screenshots/06-delivery.png" alt="Delivery information" width="100%">
+</td>
+</tr>
+<tr>
+<td width="50%">
+<strong>07 — Contact</strong><br>
+<img src="docs/screenshots/07-contact.png" alt="Contact page" width="100%">
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+### Administration Dashboard
+
+<table>
+<tr>
+<td width="50%">
+<strong>08 — Administrator Access</strong><br>
+<img src="docs/screenshots/08-admin-access.png" alt="Administrator access" width="100%">
+</td>
+<td width="50%">
+<strong>09 — Menu Management</strong><br>
+<img src="docs/screenshots/09-admin-menu-management.png" alt="Admin menu management" width="100%">
+</td>
+</tr>
+<tr>
+<td width="50%">
+<strong>10 — Order Tracking</strong><br>
+<img src="docs/screenshots/10-admin-order-tracking.png" alt="Admin order tracking" width="100%">
+</td>
+<td width="50%">
+<strong>11 — Customer Complaints</strong><br>
+<img src="docs/screenshots/11-admin-complaints.png" alt="Admin complaints management" width="100%">
+</td>
+</tr>
+</table>
+
+---
+
 ## Features
 
 ### Customer Experience
@@ -95,6 +168,8 @@ You can explore the customer interface and test the main interactive features di
 ```text
 Saveur-Arome-Restaurant-Caf-/
 │
+├── docs/
+│   └── screenshots/
 ├── public/
 ├── src/
 │   ├── assets/
